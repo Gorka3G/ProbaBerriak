@@ -1,3 +1,5 @@
 
 github-eko branchen nago. Vscodetik nola hartukot?
 Bigarrena
+
+TA vsCodeMainetik jarraituta
